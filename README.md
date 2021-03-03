@@ -10,7 +10,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
      2.定时投放，以及投放时间；
 
 三、开发计划3月25前完成.
-1）2月28前准备物料
-2）3月1-20日嵌入式开发、云开发
+1）3月10前准备物料
+2）3月11-25日嵌入式开发、云开发
 3）3月15日前整体调试。
 
