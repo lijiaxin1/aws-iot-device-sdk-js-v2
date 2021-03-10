@@ -47,7 +47,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 3）3月18号完成MCU的SDK移植
 4）3月22号完成pcb的加工
 5）3月23号开始编写调试程序
-6）4月1号完成整体设计
+6）4月1号完成
 四、预计使用硬件
 1）STM32F103C8T6核心板（喂食器用）
 2）九齐NY8A051F单片机（遥控器用）
