@@ -28,14 +28,13 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 3）语音模块
 4）直流电机
 5）压力传感器
-6）九齐NY8A051F单片机（遥控器用）
-7）通信板（ Wi-Fi MCU 通信板（WB3S））
-8）H桥直流电机驱动功能板
-9）3.7v锂电池以及充电模块
-10）红外对管模块
-11）433MHZ无线发射模块
-12）433MHZ无线接收模块
-13）霍尔检测模块
+6）通信板（ Wi-Fi MCU 通信板（WB3S））
+7）H桥直流电机驱动功能板
+8）3.7v锂电池以及充电模块
+9）红外对管模块
+10）433MHZ无线发射模块
+11）433MHZ无线接收模块
+12）霍尔板
 
 
 五、开发计划  
